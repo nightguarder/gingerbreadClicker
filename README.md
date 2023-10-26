@@ -1,10 +1,8 @@
 # Gingerbread Clicker
-- A simple cookieClicker done as a school project. 
-# Cookie Clicker App
-
-![App Screenshot](app/images/maiinActivity.png)
-
+A simple cookieClicker done as a school project. 
 - Hi! This is yet another simple app made for fun!
+# Cookie Clicker App
+![App Screenshot](app/images/maiinActivity.png)
 
 ## About
 - This project is a simple Gingerbread clicker game developed as part of a school project. The app allows users to click on a cookie to collect them and keeps track of the total number of cookies collected and the elapsed time (still buggy).
