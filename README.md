@@ -18,7 +18,7 @@ A simple cookieClicker done as a school project.
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/cookie-clicker.git
+   git clone git@github.com:nightguarder/gingerbreadClicker.git
 2. **Open in Android Studio:**
    - Build and compile the project
    - The app will be installed on an Android emulator or connected device.
