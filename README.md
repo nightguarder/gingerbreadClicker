@@ -1,5 +1,5 @@
 # Gingerbread Clicker
-A simple cookieClicker done as a school project. 
+A simple cookieClicker done as a school project in 1 day. 
 - Hi! This is yet another simple app made for fun!
 # Cookie Clicker App
 ![App Screenshot](app/images/maiinActivity.png)
