@@ -28,7 +28,7 @@ A simple cookieClicker done as a school project in 1 day.
 
 ![Activity Screenshot](app/images/startActivity.png)
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is open-source and you are free to use this code with refence to @nightguarder.
 
 Thank you for checking out the Gingerbread CLicker App! Enjoy collecting cookies and have fun!
 
